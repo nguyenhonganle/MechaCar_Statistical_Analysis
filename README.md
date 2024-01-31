@@ -35,7 +35,7 @@ On the off chance that we eliminate the less significant free factors (vehicle w
 
 This review would include gathering information on MechaCar and its equivalent models across a few unique producers throughout the most recent 3 years. 
 
-- What are the contests' practically identical models, 
+- What are the contests' practically identical models?
 - Which vehicles will MechaCar rival no holds barred? which vehicles will be remembered for the review? 
 - Which elements will check out the review to decide the applicable selling cost?
 
