@@ -43,13 +43,13 @@ This review would include gathering information on MechaCar and its equivalent m
 
 Collecting data for comparable models across all major manufacturers for the past 3 years for the following metrics:
 
-- Safety Feature Rating: **Independent Variable
-- Current Price (Selling): **Dependent Variable
-- Drive Package: **Independent Variable
-- Engine (Electric, Hybrid, Gasoline / Conventional): **Independent Variable
-- Resale Value: **Independent Variable
-- Average Annual Cost of Ownership (Maintenance): **Independent Variable
-- MPG (Gasoline Efficiency): **Independent Variable
+- Safety Feature Rating: **Independent Variable**
+- Current Price (Selling): **Dependent Variable**
+- Drive Package: **Independent Variable**
+- Engine (Electric, Hybrid, Gasoline / Conventional): **Independent Variable**
+- Resale Value: **Independent Variable**
+- Average Annual Cost of Ownership (Maintenance): **Independent Variable**
+- MPG (Gasoline Efficiency): **Independent Variable**
 
 ### Hypothesis: Null and Alternative
 
